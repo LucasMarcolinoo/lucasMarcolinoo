@@ -15,7 +15,7 @@
  
 <div>
   <a href="https://instagram.com/lucas_marcolino15" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "lucasmarcolino9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
+  <a href = "lucasmarcolino9@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucas-marcolino-6365391ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Animação de cobra](https://github.com/lucasMarcolinoo/lucasMarcolinoo/blob/output/github-contribution-grid-snake.svg)
